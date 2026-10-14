@@ -48,5 +48,5 @@
 <div align="center">
 
 ```bash
-chronoskkj@me:\~$ cat depression.txt
+wizzy@me:\~$ cat depression.txt
 "lol <3"

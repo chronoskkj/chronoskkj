@@ -22,9 +22,9 @@
 
 <div align="center">
 
-### tech stack
+### stacks <3
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,windows,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,windows,linux,electron&theme=dark)](https://skillicons.dev)
 
 </div>
 

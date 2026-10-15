@@ -2,7 +2,7 @@
 *readme inspired by tavvkkj.*
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,70:161b22,100:000000&height=180&section=header&text=chronoskkj&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20%C2%B7%20brasil&descAlignY=62&descSize=18&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d1117,70:161b22,100:000000&height=180&section=header&text=wizzy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=developer%20%C2%B7%20brasil&descAlignY=62&descSize=18&descColor=8b949e" />
 
 <div align="center">
 

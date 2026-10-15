@@ -10,7 +10,7 @@
 
 ### wizzy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=8b949e&center=true&vCenter=true&width=420&lines=dev+brasil 🇧🇷" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1800&color=8b949e&center=true&vCenter=true&width=420&lines=dev+brasil" />
 
 <br/>
 
